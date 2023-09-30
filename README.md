@@ -1,5 +1,6 @@
 # DissertaBard
 Des introductions de sujets de dissertation de philosophie, générées par Google Bard.
+→ Disponible également ici : https://lacavernedeplaton.fr/dissertations/index.php
 
 ## Informations
 

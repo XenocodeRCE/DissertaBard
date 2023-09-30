@@ -6,6 +6,7 @@ Des introductions de sujets de dissertation de philosophie, générées par Goog
 
 - J'utilise [BardSharp](https://github.com/XenocodeRCE/BardSharp) pour automatiser les requêtes à Google Bard.
 - J'utilise [la liste de Cédric Eyssette](https://eyssette.github.io/sujets-philosophie/) pour récupérer des sujets de philosophie (je ne prends QUE les questions et je passe même les sujets avec citation, arbitrairement)
+  - En fait j'ai copié la liste dans `sujets.txt`, vous avez les brouillons sous format json dans le dossier "docs", et le nom des fichiers json correspond à la ligne dans le fichier sujets.txt pour éviter de devoir déformer le sujet pour pouvoir l'enregistrer sous Windows (certains caractères ne sont pas autorisés)
 
 Le prompt utilisé : 
 

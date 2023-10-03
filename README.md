@@ -2,7 +2,9 @@
 
 Sur le Github de Eyssette on peut trouver une liste de plus de 18800 sujets de dissertation → [Github - Eyssette](https://github.com/eyssette/sujets-philosophie/)
 
-Le projet ? Faire faire un brouillon à GoogleBard pour chacun des 18800 sujets !
+Le projet ? Faire faire un brouillon à GoogleBard pour chacun des sujets-questions. Cela fait 12.721 brouillons !
+
+
 
 → Disponible également ici : https://lacavernedeplaton.fr/dissertations/index.php
 
